@@ -108,12 +108,7 @@ h1 {
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 
 /*Блок  description*/
@@ -271,12 +266,11 @@ h1 {
   align-items: center;
   background-color: black;
   color: white;
-}
-
-.kaufman {
   position: relative;
   overflow: hidden;
 }
+
+
 
 .section-title_theme_dark {
   z-index: 1;
@@ -298,6 +292,10 @@ h1 {
 }
 
 .table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
   width: 200px;
   z-index: 1;
 }
