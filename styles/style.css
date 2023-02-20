@@ -63,7 +63,7 @@
 
 .header__main-illustration {
   position: absolute;
-  object-fit:cover;  
+  object-fit: cover;
   width: 765px;
   height: 608px;
   bottom: 0px;
@@ -172,7 +172,7 @@
   align-items: flex-start;
   justify-content: space-between;
   margin: 0 0 100px 0;
-  list-style-type:none;
+  list-style-type: none;
   padding: 0;
 }
 
@@ -186,7 +186,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  
+
 }
 
 .table__text {
